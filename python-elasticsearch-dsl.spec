@@ -61,7 +61,7 @@ rm -rf %{pypi_name}.egg-info
 
 %files -n python2-%{pypi_name}
 %doc 
-%{python2_sitelib}/%{pypi_name}
+%{python2_sitelib}/elasticsearch_dsl
 %{python2_sitelib}/elasticsearch_dsl-%{version}-py?.?.egg-info
 
 %changelog
