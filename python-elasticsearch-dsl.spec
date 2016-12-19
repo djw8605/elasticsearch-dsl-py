@@ -15,8 +15,8 @@ BuildRequires:  python2-devel
 BuildRequires:  python-mock
 #BuildRequires:  python-pytest
 #BuildRequires:  python-pytest-cov
-BuildRequires:  python-pytz
-BuildRequires:  python-unittest2
+#BuildRequires:  python-pytz
+#BuildRequires:  python-unittest2
 BuildRequires:  python-setuptools
 
 %description
